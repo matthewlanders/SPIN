@@ -1,0 +1,14 @@
+numpy==1.26.0
+matplotlib==3.7.5
+torch==2.4.0
+tyro==0.8.6
+tensorboard==2.17.0
+wandb==0.17.6
+tqdm==4.66.5
+pygame==2.6.1
+stable-baselines3==2.3.2
+gym==0.21.0
+gymnasium==0.29.1
+mujoco==3.2.7
+dm_control==1.0.27
+-e git+https://github.com/davidireland3/dmc_datasets.git#egg=dmc_datasets
